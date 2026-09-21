@@ -1,0 +1,8 @@
+services:
+  portal:
+    build: .
+    ports:
+      - "80:80"
+    volumes:
+      - ./public/data/sites.csv:/usr/share/nginx/html/data/sites.csv:ro
+    restart: unless-stopped

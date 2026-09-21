@@ -1,0 +1,6 @@
+category,title,url,description,icon,theme
+서버,주식 배치,http://192.168.1.201:4200/,주식 배치 설정,https://kr.investing.com/favicon.ico,white
+서버,주식 현황,http://192.168.1.201:4201/,주식 현황 대시보드,https://kr.investing.com/favicon.ico,white
+서버,독후감,http://192.168.1.201:5173/,독서 관리 시스템,http://192.168.1.201:5173/favicon.ico,white
+서버,레드마인,http://192.168.1.201:3000/,프로젝트 관리,http://192.168.1.201:3000/assets/favicon-0e291875.ico,white
+서버,비밀번호,http://192.168.1.201:5000/,비밀번호 관리,https://psono.com/icons/icon-144x144.png?v=77cde1eea0038d6099932efc201704e5,white
