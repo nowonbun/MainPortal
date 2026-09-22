@@ -4,3 +4,4 @@ category,title,url,description,icon,theme
 서버,독후감,http://myserver.com:5173/,독서 관리 시스템,http://myserver.com:5173/favicon.ico,white
 서버,레드마인,http://myserver.com:3000/,프로젝트 관리,http://myserver.com:3000/assets/favicon-0e291875.ico,white
 서버,비밀번호,http://myserver.com:5000/,비밀번호 관리,https://psono.com/icons/icon-144x144.png?v=77cde1eea0038d6099932efc201704e5,white
+서버,mcp 서버,http://myserver.com:3200/,mcp 관리,http://myserver.com:3200/favicon.ico,white
